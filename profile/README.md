@@ -11,6 +11,9 @@ In part of our work we develop variously licensed open-source software. Here are
 | [PGO](https://github.com/SINTEF-Optimization/pgo) | The Power Grid Optimizer is our software for optimizing power grid topologies. | LGPL-3.0 |
 | [Damona](https://github.com/SINTEF-Optimization/damona-simulator) | A simulator built for simulating surgery flows in a hospital. | MIT |
 | [fiskologisk](https://github.com/SINTEF-Optimization/fiskologisk) | A tool production scheduling in land-based salmon farms. | MIT |
+| [Scoop Utilities](https://github.com/SINTEF-Optimization/scoop-utilities) | General tools for C# programming. | LGPL-3.0 |
+| [Scoop Kernel](https://github.com/SINTEF-Optimization/scoop-kernel) | Library for creating local search optimization software. | LGPL-3.0 |
+
 
 # Contact
 
